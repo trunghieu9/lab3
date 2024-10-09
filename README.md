@@ -12,7 +12,7 @@
 
 ## 3. Hiển thị kết quả lên website:
 
-![Ketquaweb](web.jbg)
+![Ketquaweb](web.jpg)
 
 ## 4. Kết quả của 3 bài tập lab 3:
 
